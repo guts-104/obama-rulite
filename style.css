@@ -1,0 +1,949 @@
+body{
+    margin: 0;
+}
+
+.nigger{
+    display: flex;
+}
+.big{
+    width: 100%;
+    height: 100vh;
+}
+.start{
+width: 500px;
+height: 50px;
+background-color:purple;
+}
+.stat{
+    background-color: purple;
+    height: 50px;
+    width: 800px;
+    display: flex;
+align-items: center;
+}
+.logo{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaEkQsvHcRaB6Pl6-vqJcveyPZtHRuIEK0Qg&usqp=CAU);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 15px;
+    height: 15px;
+}
+.email{
+    color: rgb(161, 161, 161);
+}
+.nothing{
+    width: 60px;
+    height: 50px;
+    background-color: purple;
+}
+.call{
+    background-image: url(https://pngset.com/images/telephone-phone-call-icon-symbol-vector-free-vector-silhouette-gray-world-of-warcraft-transparent-png-2285698.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 15px;
+    height: 15px;
+}
+.number{
+    color: rgb(161, 161, 161);
+}
+.obama{
+    width: 300px;
+    height: 50px;
+    background-color: purple;
+    display: flex;
+    align-items: center;
+}
+.strelka{
+    background-image: url(./image/down-arrow2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 15px;
+    height: 15px;
+
+}
+.english{
+    color: rgb(161, 161, 161);
+}
+.nothings{
+    width: 10px;
+    height: 15px;
+}
+.money{
+    color: rgb(161, 161, 161);
+}
+.login{
+    color: rgb(161, 161, 161);
+}
+.foto{
+    background-image: url(./image/user.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 15px;
+    height: 15px;
+    margin-left: 6px;
+}
+.xz{
+    color: rgb(161, 161, 161);
+}
+.tele{
+    background-image: url(./image/love.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 15px;
+    height: 15px;
+    margin-left: 6px;
+}
+.last_color{
+    width: 500px;
+    height: 50px;
+    background-color: purple;
+}
+.mim{
+    background-image: url(./image/cart.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 15px;
+    height: 15px;
+    margin-left: 22px; 
+}
+.hecto{
+    font-family: 'Dongle', sans-serif;
+    font-size: 50px;
+    margin-top: 0px;
+}
+.second_text{
+    display: flex;
+    height: 80px;
+    align-items: center;
+}
+.nothings{
+    width: 45px;
+}
+.second_strelka{
+    background-image: url(./image/down-arrow.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 15px;
+    height: 15px;
+    
+}
+.home{
+ 
+    color: red;
+    font-size: 25px;
+}
+.fig{
+    width: 250px;
+}
+.from-search{
+    display: inline-block;
+  border-bottom: 1px solid;
+ 
+}
+.form-search input {
+    all: unset;
+}
+  .blog{
+    font-size: 25px;
+}
+.blog{
+    font-size: 25px;
+
+}
+.shop{
+    font-size: 25px;
+}
+.products{
+    font-size: 25px;
+}
+.contacts{
+    font-size: 25px;
+
+}
+.nothis{
+    width: 200px;
+}
+.guts{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-24\ 235135.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 225px;
+    height: 225px;
+    margin-left: 100px;
+  
+}
+.logo_second{
+    background-color: rgb(242, 240, 255);
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.best{
+    color: red;
+    font-size: 25px;
+    margin-top: 150px;
+    font-family: 'Dongle', sans-serif;
+
+}
+.new{
+    font-size: 60px;
+    margin-top: 160px;
+    font-family: 'Dongle', sans-serif;
+   margin-left:  -212px;
+}
+.second_new{
+font-size: 60px;
+margin-top: 210px;
+font-family: 'Dongle', sans-serif;
+margin-left:  -422px;
+}
+.lorem{
+    color:rgb(138, 143, 185) ;
+    font-size: 20px;
+    margin-top: 290px;
+    margin-left: -245px;
+    font-family: 'Dongle', sans-serif;
+}
+.i_second{
+    color:rgb(138, 143, 185) ;
+    font-size: 20px;
+    margin-top: 320px;
+    margin-left: -439px;
+    font-family: 'Dongle', sans-serif;
+}
+.buy_now{
+    font-size: 25px;
+    font-family: 'Dongle', sans-serif;
+    width: 150px;
+    height: 50px;
+    margin-top: 380px;
+    margin-left: -141px;
+    background-color: rgb(251, 46, 134);
+    border: 0.1px;
+    border-radius: 4px;
+    color: white;
+}
+.radius{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 004516.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 40px;
+    height: 40px;
+    margin-left: -335px;
+    margin-top: 410px;
+}
+.radius_thre{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 004528.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+    margin-left: 900px;
+    margin-top: 450px;
+}
+.chair{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 004626.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 500px;
+    height: 500px;
+    margin-right: 20px;
+}
+.diver{
+    width: 100%;
+    height: 600px;
+    justify-content: space-around;
+    display: flex;
+   
+}
+.div{
+    color: rgb(26, 11, 91);
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 80px;
+    text-align: center;
+}
+.block{
+    width: 250px;
+    height: 300px;
+    border: 00.1px solid rgb(255, 255, 255);
+    margin-top: 40px;
+    -webkit-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    -moz-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    border-radius: 4px;
+}
+.second_block{
+    width: 250px;
+    height: 300px;
+    border: 00.1px solid rgb(255, 255, 255);
+    margin-top: 40px;
+    -webkit-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    -moz-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    border-radius: 4px;
+  
+}
+.third_block{
+     width: 250px;
+    height: 300px;
+    border: 00.1px solid rgb(255, 255, 255);
+    margin-top: 40px;
+    -webkit-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    -moz-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    border-radius: 4px;
+}
+.blocks{
+    background-color: rgb(246, 247, 251);
+    width: 250px;
+    height: 150px;
+}
+.fotos{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 021923.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 250px;
+    height: 150px;
+    margin-top: -150px;
+ 
+}
+.fotor{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 021912.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 250px;
+    height: 150px;
+    margin-top: -150px;
+}
+.fotok{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 021932.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 250px;
+    height: 150px;
+    margin-top: -150px;
+}
+.four_block{
+    width: 250px;
+    height: 300px;
+    border: 00.1px solid rgb(255, 255, 255);
+    margin-top: 40px;
+    -webkit-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    -moz-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    border-radius: 4px;
+
+}
+.fotooc{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 023517.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 250px;
+    height: 150px;
+    margin-top: -150px;
+}
+.text{
+    color: rgb(247, 1, 168);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.fuck{
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 5px;
+    width: 15px;
+    height: 5px;
+    background-color:  rgb(247, 1, 168);
+}
+.xyq{
+    margin-top: 5px;
+    text-align: center;
+    border-radius: 5px;
+    width: 15px;
+    height: 5px;
+    background-color:rgb(5, 230, 183) ;
+}
+.zz{
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 15px;
+    height: 5px;
+    background-color:rgb(0, 0, 157) ;
+}
+.xer{
+    justify-content: center;
+    display: flex;
+}
+.eba{
+    width: 5px;
+}
+.code{
+    color:rgb(0, 0, 157) ;
+   margin-top: 10px;
+    text-align: center;
+}
+.sell{
+    color: rgb(0, 0, 157);
+    margin-top: 20px;
+    text-align: center;
+}
+.aza{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(0, 0, 157);
+}
+.textss{
+    color: rgb(245, 245, 245);
+    text-align: center;
+    font-weight: bold;
+  
+}
+.sssss{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(0, 0, 157);
+}
+
+.zzz{
+    margin-top: 5px;
+    border-radius: 5px;
+    width: 15px;
+    height: 5px;
+    background-color: rgb(247, 252, 0);
+}
+.codes{
+    color:rgb(255, 255, 255) ;
+    margin-top: 10px;
+     text-align: center;
+}
+.sells{
+    color: rgb(255, 255, 255);
+    margin-top: 20px;
+    text-align: center;
+}
+.texts{
+    color: rgb(245, 245, 245);
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+  
+}
+.zaebal{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 033503.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 120px;
+   height: 50px;
+  margin-left: 900px;
+  margin-top: -200px;
+}
+.lasts{
+ margin-top: 100px;
+ font-size: 45px;
+ font-weight: bold;
+ text-align: center;
+ color:rgb(0, 0, 157);
+
+}
+.obshi{
+    display: flex;
+}
+.an{
+  margin-left: 420px;
+ color: rgb(251, 46, 134);
+ margin-top: 85px;
+ font-size: 25px;
+}
+.bests{
+    color:rgb(0, 0, 157);
+    margin-top: 85px;
+    font-size: 25px;
+}
+.featured{
+    color:rgb(0, 0, 157);
+    margin-top: 85px;
+    font-size: 25px;
+}
+.special{
+    color:rgb(0, 0, 157);
+    margin-top: 85px;
+    font-size: 25px;
+}
+.suk{
+   
+    width: 180px;
+}
+.obama_block{
+    margin-top: 80px;
+    width: 250px;
+    height: 200px;
+    background-color: rgb(247, 247, 247);
+    margin-left: 170px;
+}
+.ooo{
+    display: flex;
+}
+.jj{
+    display: flex;
+}
+.tic{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 041855.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 300px;
+   height: 150px;
+ 
+}
+.toc{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 023517.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 300px;
+   height: 150px;
+}
+.tu{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 040309.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 300px;
+   height: 150px;
+}
+.fd{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 040333.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 250px;
+   height: 150px;
+
+}
+.ll{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 040347.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 250px;
+   height: 150px;
+}
+.nig_block{
+    background-color: rgb(255, 255, 255);
+   margin-left: 120px;
+    
+   
+}
+.po{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 041830.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 250px;
+   height: 150px;
+   margin-top: 70px;
+}
+.comfort{
+    font-size:15px;
+    color: rgb(26, 11, 91);
+}
+.line{
+    width: 125px;
+    border: 0.1px solid rgb(194, 186, 186);
+}
+.solder{
+    color:rgb(26, 11, 91);
+    font-weight: bold;
+}
+.solt{
+    color: rgb(251, 46, 134);
+}
+.what{
+    color: rgb(26, 11, 91);
+    margin-top: 100px;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+.day{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 045939.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 1000px;
+   height: 350px;
+   margin-left: 474px;
+   margin-top: 50px;
+}
+.ambal{
+    margin-top: 80px;
+    width: 100%;
+    height: 400px;
+    background-color: rgb(241, 240, 255);
+    align-items: center;
+   
+}
+
+.kot{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 100130.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 600px;
+   height: 350px;  
+ margin-left: 280px;
+ margin-top: 100px;
+}
+.uniqe{
+    color: rgb(26, 11, 91);
+    width: 426px;
+    margin-top: -280px;
+    margin-left: 820px;
+    font-size: 45px;
+    font-family: 'Dongle', sans-serif;
+    background-color: rgb(241, 240, 255);
+    margin-right: 150px;
+ 
+}
+.curcle{
+    border-radius: 20px;
+    width: 11px;
+    height: 11px;
+    background-color: rgb(247, 1, 168);
+    margin-left: 825px;
+}
+.second_curcle{
+    border-radius: 20px;
+    width: 11px;
+    height: 11px;
+    background-color: rgb(0, 0, 157);
+    margin-left: 825px;
+    margin-top: 20px;
+}
+.all{
+    color: rgb(161, 161, 161);
+    margin-left: 855px;
+    margin-top: -22px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;
+}
+.rein{
+    color: rgb(161, 161, 161);
+    margin-left: 855px;
+    margin-top: -22px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;
+    width: 456px;
+}
+.third_curcle{
+    border-radius: 20px;
+    width: 11px;
+    height: 11px;
+    background-color: rgb(5, 230, 183);
+    margin-left: 825px;
+    margin-top: 10px;
+}
+.arm{
+    color: rgb(161, 161, 161);
+    margin-left: 855px;
+    margin-top: -20px;
+    font-family: 'Dongle', sans-serif;
+    font-size: 25px;
+   
+}
+
+.trending{
+    color: rgb(26, 11, 91);
+   margin-top: 100px;
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+}
+.nine{
+  display: flex;
+  width: 100%;
+  height: 250px;
+  justify-content:space-between;
+  
+}
+.first_nine{
+    margin-right: 240px;
+    width: 250px;
+    height: 230px;
+    background-color: rgb(245, 246, 248);
+}
+.second_nine{
+    width: 250px;
+    height: 230px;
+    background-color: rgb(245, 246, 248);
+}
+.third_nine{
+    width: 250px;
+    height: 230px;
+    background-color: rgb(245, 246, 248);
+}
+.four_nine{
+    width: 250px;
+    height: 230px;
+    background-color: rgb(245, 246, 248);
+   
+}
+.zheka{
+    width: 120px;
+}
+.mimq{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 111838.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 200px;
+   height: 200px;  
+}
+.mimd{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 111853.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 200px;
+   height: 200px;  
+}
+.mims{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 111903.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 200px;
+   height: 200px;  
+}
+.mime{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 111916.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 200px;
+   height: 200px;  
+}
+.ca{
+    color: rgb(26, 11, 91);
+     font-size: 25px;
+     font-weight: bold;
+     text-align: center;
+     font-family: 'Dongle', sans-serif;
+     margin-top: 25px;
+
+}
+.cak{
+    color: rgb(26, 11, 91);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+}
+.sas{
+    background-image: url(./image//Снимок\ экрана\ 2022-01-25\ 115529.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+   width: 40px;
+   height: 40px;  
+   margin-top: -40px;
+   margin-left: 150px;
+}
+.mama{
+   width: 250px;
+    height: 300px;
+    border: 00.1px solid rgb(255, 255, 255);
+    margin-top: 40px;
+    -webkit-box-shadow: 4px 13px 47px 4px rgb a(34, 60, 80, 0.35);
+    -moz-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    border-radius: 4px;
+}
+.maman{
+    width: 250px;
+    height: 300px;
+    border: 00.1px solid rgb(255, 255, 255);
+    margin-top: 40px;
+    -webkit-box-shadow: 4px 13px 47px 4px rgb a(34, 60, 80, 0.35);
+    -moz-box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    box-shadow: 4px 13px 47px 4px rgba(34, 60, 80, 0.35);
+    margin-left: 150px;
+}
+.dift{
+    margin-top: 150px;
+    width: 580px;
+    height: 200px;
+    background-color: rgb(255, 246, 251);
+    margin-left: 78px;
+}
+.procent{
+    color: rgb(26, 11, 91);
+    font-size: 30px;
+    font-weight: bold;
+  margin-left: 15px;
+    font-family: 'Dongle', sans-serif;
+    margin-top: 35px;
+}
+.rab{
+    color: rgb(247, 1, 168);
+    font-size: 30px;
+    margin-left: 15px;
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    margin-top: 35px;
+}
+.sur{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 121308.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 200px;
+    height: 170px;
+    margin-left:220px;
+    margin-top: -40px;
+}
+.drift{
+   margin-top: -230px;
+    width: 570px;
+    height: 200px;
+    background-color: rgb(238, 239, 251);
+    margin-left: 737px;
+}
+.lm{
+    color: rgb(247, 1, 168);
+    font-size: 30px;
+    margin-left: 15px;
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+  
+}
+.df{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 123954.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 288px;
+    height: 170px;
+    margin-left: 220px;
+    margin-top: -40px;
+}
+.nano{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 124716.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -200px;
+    width: 143px;
+    height: 104px;
+    background-color: rgb(245, 246, 248);
+    margin-left:  1400px;
+}
+.omo{
+    height: 20px;
+
+}
+.biggger{
+    height: 300px;
+}
+.nano_first{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 124725.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 143px;
+    height: 104px;
+    background-color: rgb(245, 246, 248);
+    margin-left: 1400px;
+}
+.nano_second{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 124735.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 143px;
+    height: 104px;
+    background-color: rgb(245, 246, 248);
+    margin-left:  1400px;
+}
+.mb{
+    margin-left: 151px;
+    width: 172px;
+    color: rgb(26, 11, 91);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Dongle', sans-serif;
+}
+.nc{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 131534.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 150px;
+    width: 40px;
+    height: 40px;
+    margin-top: -20px;
+}
+.home{
+    color: rgb(247, 1, 168);
+    font-size: 30px;
+    margin-left: 689px;
+    text-align: center;
+    font-family: 'Dongle', sans-serif;
+    margin-top: 85px;
+}
+.curcles{
+   
+        border-radius: 20px;
+        width: 6px;
+        height: 6px;
+        background-color: rgb(247, 1, 168);
+        margin-left: 794px;
+        margin-top: -25px;
+}
+.ber{
+
+    color: rgb(26, 11, 91);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Dongle', sans-serif;
+    margin-left: 864px;
+    margin-top: -25px;
+}
+.ser{
+    color: rgb(26, 11, 91);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Dongle', sans-serif;
+    margin-left: 1045px;
+    margin-top: -43px;
+}
+
+
+
+.obma_ii{
+    background-image: url(./image/Снимок\ экрана\ 2022-01-25\ 165705.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 90px
+}
